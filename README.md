@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=martuafernando&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martuafernando&langs_count=10&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martuafernando&langs_count=10&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **martuafernando/martuafernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
