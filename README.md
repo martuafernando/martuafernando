@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Bachelor's degree in Information Technology from Institut Teknologi Sepuluh Nopember.
-- 💼 &nbsp; Working as a Software Engineer at eHealth.
+- 💼 &nbsp; A Job Seeker.
 - 🌱 &nbsp; Learning more about Software Development, Cloud Architecture, Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
