@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Bachelor's degree in Information Technology from Institut Teknologi Sepuluh Nopember.
-- 💼 &nbsp; A Job Seeker.
-- 🌱 &nbsp; Learning more about Software Development, Cloud Architecture, Systems Design.
+- 🌱 &nbsp; Interest more about Software Development, Cloud Architecture, Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -13,6 +12,7 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
